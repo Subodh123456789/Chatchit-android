@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.google.firebase.codelab.friendlychat"
+    namespace = "com.example.fitlife"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.google.firebase.codelab.friendlychat"
+        applicationId = "com.example.fitlife"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
